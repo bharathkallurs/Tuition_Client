@@ -1,0 +1,18 @@
+This readme does not contain much information as of now.
+please concentrate on coding or designing the app!!
+
+Please debug the os library issues yourself and let us not bring them to the table unless it is creating huge issues!
+it saves your time and other's time too! :)
+
+necessary packages :
+
+python 2.7.x - http://www.python.org/download/
+
+pip installer to install awesome libraries for python easily! example : pyqt4!! - first answer on stackoverflow in this link - http://stackoverflow.com/questions/4750806/how-to-install-pip-on-windows
+
+pyqt4 - http://movingthelamppost.com/blog/html/2013/07/12/installing_pyqt____because_it_s_too_good_for_pip_or_easy_install_.html
+
+for guys planning to use eclipse for dev environment
+install pydev plugin for eclipse - google it! you will be able to find it easily!
+ask pavan and avi as they have done that installation :)
+
